@@ -1,0 +1,54 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-swispshopApplication<swisp-shop>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.swispshop.swispshopApplication",
+      "projectName": "swisp-shop",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-SwispShopApplication<swisp-shop>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.swispshop.SwispShopApplication",
+      "projectName": "swisp-shop",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-SwispShopApplication<swisp-shop>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.swispshop.SwispShopApplication",
+      "projectName": "swisp-shop",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-SwispShopApplication<swisp-shop>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.swispshop.SwispShopApplication",
+      "projectName": "swisp-shop",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-SwispShopApplication<pottery-shop>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.swispshop.SwispShopApplication",
+      "projectName": "pottery-shop",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
